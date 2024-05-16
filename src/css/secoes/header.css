@@ -10,9 +10,9 @@
     border-radius: 50%;
     width: 65px;
     height: 65px;
-    line-height: 55px;
+    line-height: 59px;
     text-align: center;
-    text-decoration: underline;
+    text-decoration: none;
     transition: 0.2s;
 }
 
