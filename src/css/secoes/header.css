@@ -17,8 +17,8 @@
 }
 
 .header a:hover .logo {
-    color: var(--cor-primaria);
-    border: 2px solid var(--cor-primaria);
+    color: chocolate;
+    border: 2px solid sienna;
 }
 
 .header nav ul {
@@ -38,7 +38,7 @@
 }
 
 .header nav ul li a:hover{
-    background-color: var(--cor-primaria);;
+    background-color: chocolate;
     color: var(--cor-branca);
 }
 
@@ -63,7 +63,7 @@
     height: 2px;
     top: 29px;
     left: 15px;
-    transition: 0.5s ease-in-out;
+    transition: 0.7s ease-in-out;
 }
 
 .header .hamburguer:before,
