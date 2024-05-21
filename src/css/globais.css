@@ -49,7 +49,7 @@ html {
   }
   
   .redes-sociais a:hover {
-    color: var(--cor-primaria);
+    color: chocolate;
   }
   
   .outer-shadow {
@@ -82,7 +82,7 @@ html {
     padding: 10px 20px;
     border-radius: 20px;
     transition: all .3s ease;
-    background-color: var(--cor-primaria);
+    background-color: rgb(189, 80, 2);
   }
   
   .botao:hover {
