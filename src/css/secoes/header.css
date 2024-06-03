@@ -119,7 +119,7 @@
     .header nav input:checked ~ ul {
         display: block;
     }
-
+ 
     .header nav {
         position: absolute;
         top: 30px;
