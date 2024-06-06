@@ -27,11 +27,10 @@
 
 .sobre-mim .informacoes-sobre-mim p {
     font-size: 1.8rem;
-    font-weight: 300;
     margin-bottom: 20px;
 }
 
-@media(max-width: 1280px) { 
+@media(max-width: 980px) { 
     .sobre-mim .row{
         justify-content: center;
     }
